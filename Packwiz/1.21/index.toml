@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/easy-eula.pw.toml"
+hash = "2150e83cbeecd814d429575024307eb4c45654a7c36647078059f29e02b5a7de"
+metafile = true
+
+[[files]]
+file = "mods/essentialaddons.pw.toml"
+hash = "eb9e1b8bbeddcc73b7b41201bc081d9a83ac97896092f9b628d04e5089208a6a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "32dd0940c5448979bbd6e526825ea579293a3c05096ab5db99eb588b99264186"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "a9235bb80f4fdd5923c8013286d1b9603bc83ab2c265ce449a3d8e5e2f34389f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+metafile = true
