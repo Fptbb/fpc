@@ -1,0 +1,13 @@
+name = "Ducky Updater: ReWork"
+filename = "ducky-updater-rework-2024.5.4-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ex3jKEPK/versions/avwOVKud/ducky-updater-rework-2024.5.4-1.20.jar"
+hash-format = "sha1"
+hash = "de32c1b287a8448ed966627046686d6cf59d294b"
+
+[update]
+[update.modrinth]
+mod-id = "Ex3jKEPK"
+version = "avwOVKud"

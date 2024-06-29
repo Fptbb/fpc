@@ -1,0 +1,13 @@
+name = "Fuji (Essentials)"
+filename = "fuji-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1TowMm2v/versions/FcWoynxS/fuji-1.2.1.jar"
+hash-format = "sha1"
+hash = "a2167ae25665fabce8033c4f5d117eb65762028e"
+
+[update]
+[update.modrinth]
+mod-id = "1TowMm2v"
+version = "FcWoynxS"

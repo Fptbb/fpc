@@ -10,8 +10,28 @@ hash = "633f76611e057f7dd6195a26c54fe8841e30569792e4474e9963d950fbcd17e7"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "82f97dbdf301a0cd82991b7b377c45bac9e587bd033e741db89e2cb17ef73e93"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+metafile = true
+
+[[files]]
+file = "mods/ducky-updater-rework.pw.toml"
+hash = "1f25f7937cf7ad4b0e72acfaf2b6310bed1569cf7968792d8e66b77e7fd0c92a"
 metafile = true
 
 [[files]]
@@ -25,8 +45,28 @@ hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
 metafile = true
 
 [[files]]
+file = "mods/enclosure.pw.toml"
+hash = "852c7f4f1662916821a86ecaa0b3520c865ea68f143221a1f968eed6c50c2200"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "2c707336883229e55c6a4278e9a37ccba55d6d85f34fa7c90221807b6dce9644"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "9afa18269996bcaa57899af3175ad0bef142363c3c863b1ed7206089677fcd3d"
 metafile = true
 
 [[files]]
@@ -40,8 +80,23 @@ hash = "32dd0940c5448979bbd6e526825ea579293a3c05096ab5db99eb588b99264186"
 metafile = true
 
 [[files]]
+file = "mods/fuji.pw.toml"
+hash = "36ee4d60ee79a03858e36115e9cb60c14ea043a6bf9fd60ca2ca130e71f5eb5e"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "8bb5b5695810c5f5eb27a4e1890db7492ec4ad0c6efe95e713f694aa017e640d"
+metafile = true
+
+[[files]]
 file = "mods/geyser.pw.toml"
-hash = "a9235bb80f4fdd5923c8013286d1b9603bc83ab2c265ce449a3d8e5e2f34389f"
+hash = "00516bcbea0314ad8d706c858979a6e449bb174346e76cc43739887998f91e92"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
 metafile = true
 
 [[files]]
@@ -65,6 +120,11 @@ hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
@@ -75,13 +135,33 @@ hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
 metafile = true
 
 [[files]]
+file = "mods/seedguard.pw.toml"
+hash = "488de4e605e34cecbc51f466a6b1abf02ccc8485f59beeecca2e6bbf805fad57"
+metafile = true
+
+[[files]]
+file = "mods/sessility.pw.toml"
+hash = "ac6c11e985558c984f0397ef1ce3a069688bf9aa4b33f37fc4e1d3339f35caed"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "5c5b9d30f45106de066c95cbad7e8aa00dd4c509fb81dd33ca3a6ca156ab4cc4"
 metafile = true
 
 [[files]]
+file = "mods/slumber.pw.toml"
+hash = "52c508a86c75aeb8c15fafed584cf7098039be0ef7536b94a439c3d1b4217c2c"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "3ddc5a6f7e135b15c78d9fc6a88ca8be1fd6724b59eef19430ba08b95552754f"
 metafile = true
 
 [[files]]
