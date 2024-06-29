@@ -1,13 +1,27 @@
 hash-format = "sha256"
 
 [[files]]
+file = "docker-compose.yml"
+hash = "2c77bf838f6ae9ce3893e1f1758526318cf15e8ee055300623fd7672d2473a0e"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "633f76611e057f7dd6195a26c54fe8841e30569792e4474e9963d950fbcd17e7"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
+metafile = true
+
+[[files]]
 file = "mods/easy-eula.pw.toml"
 hash = "2150e83cbeecd814d429575024307eb4c45654a7c36647078059f29e02b5a7de"
 metafile = true
 
 [[files]]
-file = "mods/essentialaddons.pw.toml"
-hash = "eb9e1b8bbeddcc73b7b41201bc081d9a83ac97896092f9b628d04e5089208a6a"
+file = "mods/easyauth.pw.toml"
+hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
 metafile = true
 
 [[files]]
@@ -31,8 +45,23 @@ hash = "a9235bb80f4fdd5923c8013286d1b9603bc83ab2c265ce449a3d8e5e2f34389f"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "828aef169c8a135189580d5833138ffc3af3d70117e3edcf9d0da5f6a099cc94"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
 metafile = true
 
 [[files]]
@@ -41,6 +70,21 @@ hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "5c5b9d30f45106de066c95cbad7e8aa00dd4c509fb81dd33ca3a6ca156ab4cc4"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d8e6f0094a243233e66416c418671a891c417f7cfec2df40c1442fa82ec45b0d"
 metafile = true
