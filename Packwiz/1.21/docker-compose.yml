@@ -1,6 +1,6 @@
 services:
   mc:
-    image: itzg/minecraft-server
+    image: itzg/minecraft-server:java21
     tty: true
     stdin_open: true
     ports:
@@ -12,12 +12,10 @@ services:
       VERSION: "1.21"
       MAX_PLAYERS: "21"
       MODE: "survival"
-      MAX_MEMORY: "8G"
-      SERVER_NAME: "AnneMine"
-      MOTD: "Servidor de mine para a tripulação"
+      MAX_MEMORY: "4G"
+      SERVER_NAME: "Mine"
       ONLINE_MODE: "FALSE"
-      RCON_PASSWORD: "e5624fe8"
-      MODRINTH_MODPACK: "https://files.catbox.moe/5nyri1.mrpack"
+      MODRINTH_MODPACK: "LINKTOTHEMRPACK"
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
