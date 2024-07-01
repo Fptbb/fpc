@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "docker-compose.yml"
-hash = "2c77bf838f6ae9ce3893e1f1758526318cf15e8ee055300623fd7672d2473a0e"
+hash = "42ada31cbdbad31746a4e918f0bff013b098ce1173999bd86f05c8d074d4784d"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -27,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+metafile = true
+
+[[files]]
+file = "mods/disable-portal-checks.pw.toml"
+hash = "e9e7b2110106843600865b253389d513aacc6e36442f0a05b01a9c13185462a9"
 metafile = true
 
 [[files]]
@@ -127,6 +132,16 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
+metafile = true
+
+[[files]]
+file = "mods/railoptimization.pw.toml"
+hash = "17348559d0deb79189d92e2cd8d4090cd80cdb51a48a86b7049936cd5e81327d"
+metafile = true
+
+[[files]]
+file = "mods/recipecooldown.pw.toml"
+hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
 metafile = true
 
 [[files]]
