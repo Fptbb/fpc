@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "00516bcbea0314ad8d706c858979a6e449bb174346e76cc43739887998f91e92"
+hash = "fe5b4fffe3c604cd1afdbfa259dda8d53ea8f78e68907b5e1ebb8e0d2cceab31"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "5c5b9d30f45106de066c95cbad7e8aa00dd4c509fb81dd33ca3a6ca156ab4cc4"
+hash = "10339fb47e17ab1069cf2d035c6e7580bc70e46eee7ab14febc5ddf56c87fc0e"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "FCP - Fabric Cross Play"
 author = "Lucas Oliveira (fptbb.com)"
-version = "0.0.7"
+version = "0.0.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e3a1b48e6d87922a787d7bd1764764082e3f49b38f1479e6b962149810100063"
+hash = "17ad05b341780c1da26360d339dcf161f720c1daa12670bfe53fd1a825583839"
 
 [versions]
 fabric = "0.15.11"
