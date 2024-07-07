@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "36ee4d60ee79a03858e36115e9cb60c14ea043a6bf9fd60ca2ca130e71f5eb5e"
+hash = "42fe66ce199c525e10f43b44251911d6ad4736486ca5ca2bc2510e4cbfb547a8"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "fe5b4fffe3c604cd1afdbfa259dda8d53ea8f78e68907b5e1ebb8e0d2cceab31"
+hash = "3db9da619923560d9919c9eebeeb95e47c22a290db4eb1adfa4259b927275296"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
+hash = "5c19a3fa886d36fd32ee8434b7948972329b96fa1f4064d8beadae832f168654"
 metafile = true
 
 [[files]]
