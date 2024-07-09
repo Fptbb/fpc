@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-eula.pw.toml"
-hash = "2150e83cbeecd814d429575024307eb4c45654a7c36647078059f29e02b5a7de"
+hash = "75d08c3e37e6647de04ea8ccc9c017e28797e4ffd8c126afc34de36cae01cb0e"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "3db9da619923560d9919c9eebeeb95e47c22a290db4eb1adfa4259b927275296"
+hash = "616f787d82b90cb3352a4e1e642c5f0bc9e2d40f634d450fd719579734d9570e"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
+hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
 metafile = true
 
 [[files]]
