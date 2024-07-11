@@ -30,6 +30,11 @@ hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "908f1d941779c0a7eaa8d11b60e5cdfcf4c95547bc3b27a8bfef5b67021b65a2"
+metafile = true
+
+[[files]]
 file = "mods/disable-portal-checks.pw.toml"
 hash = "e9e7b2110106843600865b253389d513aacc6e36442f0a05b01a9c13185462a9"
 metafile = true
