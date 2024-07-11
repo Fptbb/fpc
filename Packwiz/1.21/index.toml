@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/ducky-updater-rework.pw.toml"
-hash = "1f25f7937cf7ad4b0e72acfaf2b6310bed1569cf7968792d8e66b77e7fd0c92a"
+hash = "ace3a106fa581073e476b56c484a75317ad935d9adfd525ca1b786d3dde4180f"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/enclosure.pw.toml"
-hash = "852c7f4f1662916821a86ecaa0b3520c865ea68f143221a1f968eed6c50c2200"
+hash = "636d22d0ba989843b77254295426280837a7909b1c8c858f6f8ace7fe9d1f648"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "616f787d82b90cb3352a4e1e642c5f0bc9e2d40f634d450fd719579734d9570e"
+hash = "f398d45d2331fb569248193532cca5e1a39c2add0160e977e2986d456c16c92a"
 metafile = true
 
 [[files]]
@@ -181,5 +181,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d8e6f0094a243233e66416c418671a891c417f7cfec2df40c1442fa82ec45b0d"
+hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
 metafile = true
