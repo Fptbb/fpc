@@ -15,11 +15,6 @@ hash = "460b74be05d86dabec77dc07781043265b1ed8ad7a96e873f74b1a4afc45ab96"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "0143e42ff644833cbad6ee764eeb1a16c30dd07c24602bf2304a26941f4a10e0"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
 metafile = true
