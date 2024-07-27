@@ -1,0 +1,13 @@
+name = "Better chunk loading[Forge/Fabric]"
+filename = "betterchunkloading-fabric-1.21-4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c6f65d66d411fd12f41833896a7bde72f19e519"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5527058
+project-id = 899487
