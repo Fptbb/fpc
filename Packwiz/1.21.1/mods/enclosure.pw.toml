@@ -1,0 +1,13 @@
+name = "Enclosure"
+filename = "enclosure-fabric-0.4.5+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mc1DjRvU/versions/O5NzJWf4/enclosure-fabric-0.4.5%2B1.21.jar"
+hash-format = "sha1"
+hash = "2d2fd3d71d0b9189bd3ba4789b967f7becfa990a"
+
+[update]
+[update.modrinth]
+mod-id = "mc1DjRvU"
+version = "O5NzJWf4"

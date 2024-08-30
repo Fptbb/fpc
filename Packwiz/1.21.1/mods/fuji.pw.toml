@@ -1,0 +1,13 @@
+name = "Fuji (Essentials)"
+filename = "fuji-1.4.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1TowMm2v/versions/pIKRMHZx/fuji-1.4.4.jar"
+hash-format = "sha1"
+hash = "edc8a2f1aa0427043af47fcd55db6a3ffb365b34"
+
+[update]
+[update.modrinth]
+mod-id = "1TowMm2v"
+version = "pIKRMHZx"
