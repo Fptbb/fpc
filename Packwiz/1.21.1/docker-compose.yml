@@ -9,13 +9,13 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "MODRINTH"
-      VERSION: "1.21"
+      VERSION: "1.21.1"
       MAX_PLAYERS: "21"
       MODE: "survival"
       MAX_MEMORY: "4G"
       SERVER_NAME: "Mine"
       ONLINE_MODE: "FALSE"
-      MODRINTH_MODPACK: "LINKTOTHEMRPACK"
+      MODRINTH_MODPACK: "https://files.offshore.cat/caYest7s.mrpack"
     volumes:
       # attach the relative directory 'data' to the container's /data path
-      - ./data:/data
+      - ../../ServerData/1.21.1:/data
