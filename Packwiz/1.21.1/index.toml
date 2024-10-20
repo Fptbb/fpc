@@ -2,7 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "docker-compose.yml"
-hash = "b2cf6b1444714da233004b65e28b15b8583e5eb7826f3a8248191ae38a261459"
+hash = "fbc9c2a6a7b6f33a6c7dc20e47f6ceb0143853c6a9c19cb2f9d8f1d9a973190a"
+
+[[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "605ef8bb0533a72740dc3b5346908567dd2ce0539fe8a39e7dbcc7959e700797"
+metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -15,18 +20,8 @@ hash = "61527e2f37ef0edb8e91414c10d23b59dc3e6e5927801d1f9d4d4c3deeb35a44"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "ae5bb725f6a66376d9f60c29391f929a4cd1cc3931120a5a4c9491a4afe043c6"
-metafile = true
-
-[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "3346dff03bf04d048dc007986f94639a941e18d95cc78349bfe180d455d88173"
-metafile = true
-
-[[files]]
-file = "mods/carpet-tis-addition.pw.toml"
-hash = "295991ddfa72d2fd5dd3086e07f121c91e85f93c49f7bd0388da6064c4f7eed8"
 metafile = true
 
 [[files]]
@@ -96,17 +91,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
+hash = "4f98c68b1de3837e8e7c519dfffc8c2b312768c69f804540334cc3f20714f7f6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+hash = "2250b48970ad684f439bf82e0275be0a2b3dbeab43dca0d2dd884601975d286a"
 metafile = true
 
 [[files]]
@@ -116,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "1e328b7fa7c9e091a3c7bd093a3c6cfe9f036c0f0100c1df8262407cd92b5fbf"
+hash = "4167cd76a358625b739f6f30bfe921d9104b4af92ca218e5b4bbbf7c373e4e47"
 metafile = true
 
 [[files]]
@@ -126,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "ec52f8850d17dece866da2596b4c605d073135416b73d7d038e80c85a10bf4a3"
+hash = "c0600d6bf65a9f19849653fae3e009832d6bfdd84cc7fa4de052029b85ca0ecc"
 metafile = true
 
 [[files]]
@@ -141,22 +136,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
+hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
 metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "5c873d4e0199fc7aef86be457c5c97eee381023f575e422c9182589e1573bdab"
+hash = "64663662bd3ff0462976b3d8f6bc9b2fbef47ad4050e9731e877a552d1b76d84"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "fd3c19d3524ec86a192e87859738bdd2f5e244115ae1125202592ac13c608979"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
@@ -171,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "b935380e60293996467bf8d7099aec9ef4c2cbeca3b27bc347434729ceca4ba2"
+hash = "96cf100e91e29024010581dda3a3b5f5a2f4a81741cd9118f545433b2d01de8d"
 metafile = true
 
 [[files]]
@@ -196,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "28c880a9abdc2cacbe5ba822277fc6c3d2ebcf694476e9aff7c57436a15f3e66"
+hash = "8587a0fba39b29584f247f025967ae8fa840b0c3d3bf752c6b3f26b573dd133e"
 metafile = true
 
 [[files]]
@@ -211,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
@@ -226,5 +216,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6448dd2b187041bb7b1da3998c10b43c103e47a125b06230d302d9909be3701c"
+hash = "107f3b4c6c46863c5adda283a97f4648ec6507f1bfb353165c4d320adaccd568"
 metafile = true
