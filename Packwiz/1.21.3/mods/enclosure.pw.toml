@@ -1,0 +1,13 @@
+name = "Enclosure"
+filename = "enclosure-fabric-0.4.7-alpha+1.21.2+1.21.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mc1DjRvU/versions/xF23qxML/enclosure-fabric-0.4.7-alpha%2B1.21.2%2B1.21.2.jar"
+hash-format = "sha1"
+hash = "6cac5aaf4cb90d1bdda734b012948f1a64c3447b"
+
+[update]
+[update.modrinth]
+mod-id = "mc1DjRvU"
+version = "xF23qxML"

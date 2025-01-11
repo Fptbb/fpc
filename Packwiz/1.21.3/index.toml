@@ -1,0 +1,220 @@
+hash-format = "sha256"
+
+[[files]]
+file = "docker-compose.yml"
+hash = "fbc9c2a6a7b6f33a6c7dc20e47f6ceb0143853c6a9c19cb2f9d8f1d9a973190a"
+
+[[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "9d2a747b7e187cee08ae8b4aecfa8c9038031e844880d63b37871f01c7941add"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "4d8fb6602a68d3707aba07b09826b9ef95fab2754f87c01613b5b88ea159b38c"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "1f8c4c0492870169d4ff882cd4a5c0843119178e0523f733016ceb03a800ea7b"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "7c8616281c3ac954b6843ea5883b11fd60f71e2f40db01d6c1937ef74ce03693"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "ca1a36e0446baff9ada9929ef44552a57fc01f1a5b288029ad7b3d7aa14ffa43"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "1edd2cfabb619660184561ab311bf5a6ad8d49d950030de1fef3cae4f9a549dd"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38e20fe6e426b121d2b47b637d981f433faf285a471924624f819f3f952e805b"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "363585e8e036661696b03a71bd90382072f77f4cdfdd9b5e0809eaa737e80b9e"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "c5a84731a3ee6ae3006291512deef31d921a4b04becc1f5bd3d5f094ff995513"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
+metafile = true
+
+[[files]]
+file = "mods/disable-portal-checks.pw.toml"
+hash = "e9e7b2110106843600865b253389d513aacc6e36442f0a05b01a9c13185462a9"
+metafile = true
+
+[[files]]
+file = "mods/ducky-updater-rework.pw.toml"
+hash = "ace3a106fa581073e476b56c484a75317ad935d9adfd525ca1b786d3dde4180f"
+metafile = true
+
+[[files]]
+file = "mods/easy-eula.pw.toml"
+hash = "75d08c3e37e6647de04ea8ccc9c017e28797e4ffd8c126afc34de36cae01cb0e"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "34aae3ef5522b3308b541d95dd58b681351c47d3fb8784e8a560c4fa9a23917b"
+metafile = true
+
+[[files]]
+file = "mods/enclosure.pw.toml"
+hash = "f5fb38de36f70efdbfa3d5fdb50f00817208236b5047f5e749679be54855fd8b"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "2c707336883229e55c6a4278e9a37ccba55d6d85f34fa7c90221807b6dce9644"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "03e71ca4ecc9dc66657a5b58cb11eaecd21ffaf445682c7d9d761d5359615985"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "80e0bd30f4e1d968f47e24968ca1f4fac8475ba6fa464d6c44b4aebca159be5d"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "b65001472ea24f19cf09b072f77ae60d87e308c70759c38d7a9d95aed49a6e96"
+metafile = true
+
+[[files]]
+file = "mods/fuji.pw.toml"
+hash = "1337c8eb500b307694c07bc004927b3f0b70d6133b37d9eca884d87b5cf61cda"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "8bb5b5695810c5f5eb27a4e1890db7492ec4ad0c6efe95e713f694aa017e640d"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "d4aa5ae5aa66b89c8d04ca813343e74d66162963ca6de1f9ca1fdde90174f7cd"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "eb0304f36a99dd0ae2e4d5ca325cca5c26c15772c81622fecd8a11cd7c5e6436"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "64663662bd3ff0462976b3d8f6bc9b2fbef47ad4050e9731e877a552d1b76d84"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "5cb2f3a8d182833cd03068704c10f41644f6bf81d3757d88f66516bdc267074c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "99ee2c2f018e68b54a1f65997876ec4fd41dbbee5d2c1625c9bbe89710cbd405"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "afb686076014eed0142103cd9ae6b536316888bd3e9ffe9a80c075c97f92ab50"
+metafile = true
+
+[[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "96cf100e91e29024010581dda3a3b5f5a2f4a81741cd9118f545433b2d01de8d"
+metafile = true
+
+[[files]]
+file = "mods/recipecooldown.pw.toml"
+hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
+metafile = true
+
+[[files]]
+file = "mods/seedguard.pw.toml"
+hash = "488de4e605e34cecbc51f466a6b1abf02ccc8485f59beeecca2e6bbf805fad57"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "a11a4c188463eef9ab380b11299ffe186619b2ac69671170bedeb123f32899d6"
+metafile = true
+
+[[files]]
+file = "mods/sessility.pw.toml"
+hash = "862ddfe09952a94a35136d26dc14943e3b9129605d778524728bf9353e086b82"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "8587a0fba39b29584f247f025967ae8fa840b0c3d3bf752c6b3f26b573dd133e"
+metafile = true
+
+[[files]]
+file = "mods/slumber.pw.toml"
+hash = "71997bb78351a3cda51d5d71d58a51df5e1f82982f88b6dd0f76d5725b0a63ae"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "43f3ec75de91c336db90d1dab5297c596691b0e2bed1cd9e89995f3c0704416c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c30391c4a9d653785b20d4bc8bc37bc6b98fa750f13ecb04beb48a492547b91e"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "41ca6fc9929ae83cd41518ab017081598d73c2ed3c6bcce01f27c00f917caab1"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "aa681847af4d81b1a0323301517a89fe1f39db7b473854e418a32c9ec12640fd"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "c3422f31543840e1e103a9fefe3e9cab7d884dd95ed4e0aa04ec6a152af4e148"
+metafile = true
