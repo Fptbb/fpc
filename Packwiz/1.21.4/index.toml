@@ -25,11 +25,6 @@ hash = "dd9968355ea956020209b299aabc85df65894d430b7de248d67accb25159f0b4"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "1edd2cfabb619660184561ab311bf5a6ad8d49d950030de1fef3cae4f9a549dd"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
 metafile = true
@@ -45,18 +40,8 @@ hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "363585e8e036661696b03a71bd90382072f77f4cdfdd9b5e0809eaa737e80b9e"
-metafile = true
-
-[[files]]
 file = "mods/convenient-mobgriefing.pw.toml"
 hash = "c5a84731a3ee6ae3006291512deef31d921a4b04becc1f5bd3d5f094ff995513"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
 metafile = true
 
 [[files]]
@@ -140,8 +125,8 @@ hash = "97608890817d0e6a374dd81bff3ecb094fb989af5581a29cf7019717a5ed16e2"
 metafile = true
 
 [[files]]
-file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "96cf100e91e29024010581dda3a3b5f5a2f4a81741cd9118f545433b2d01de8d"
+file = "mods/notica.pw.toml"
+hash = "12f27e06d06780d52e52f89df01857640c05f1149edaf125f399e9a08d37b7b4"
 metafile = true
 
 [[files]]
@@ -175,11 +160,6 @@ hash = "c84aa73b8acffbc64bb0d9e4af05243ac6b53c798941e0bf3123aa610c445eee"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "43f3ec75de91c336db90d1dab5297c596691b0e2bed1cd9e89995f3c0704416c"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
 metafile = true
@@ -187,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "18d5d5ec5c30d35fc8ff591482d3a8ca8c1c74c4545e2c6920010d2ee26ffef1"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "db72427c497b8c6c8d3062db6af9674854d61c59b9f515430cb2e84fc1ec2fe9"
 metafile = true
 
 [[files]]
