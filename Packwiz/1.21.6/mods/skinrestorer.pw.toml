@@ -1,0 +1,13 @@
+name = "SkinRestorer"
+filename = "skinrestorer-2.3.5+1.21.6-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/fs7VElhv/skinrestorer-2.3.5%2B1.21.6-fabric.jar"
+hash-format = "sha512"
+hash = "c50ab46f75eb6ef27801fe58a4c327e1c565358494b60bccb10c420d24d79f5430e0bfc309e06fbe5d4275ef4528412867d56c447cc917a75e61f3507f45a9eb"
+
+[update]
+[update.modrinth]
+mod-id = "ghrZDhGW"
+version = "fs7VElhv"
