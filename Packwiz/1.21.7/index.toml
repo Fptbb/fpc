@@ -1,0 +1,175 @@
+hash-format = "sha256"
+
+[[files]]
+file = "docker-compose.yml"
+hash = "59ab7d9ce71f0aedbe1b918ab942ce2005f38b74ceeeee5c4b1cc8ea03fc6135"
+
+[[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "73030bd60be4d6f1c58ef7f5ae3a3955537111192bad864b53f65eb387b48eaf"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "54094fe0d14e59b037f1efda0200ab9723b86eb51fb644d726f28b97261a72f8"
+metafile = true
+
+[[files]]
+file = "mods/areas.pw.toml"
+hash = "31ca1aa05eb14b79c1bfe57c9f06aee0e00a76703c8ca6d83d283b13cf31736d"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "5036beee8b9088cdd6e42699eb9fff76658eda6b6f83b46c531624ae87ccd80b"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "30572b894b2e3a4f87968217718446f1018e67a5b6efdfe5c925e4f8c5da4f6e"
+metafile = true
+
+[[files]]
+file = "mods/easy-eula.pw.toml"
+hash = "75d08c3e37e6647de04ea8ccc9c017e28797e4ffd8c126afc34de36cae01cb0e"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "c517129177837ec4233f97e5fecc3bb6c3a2549a3b2a0f935a2798aa58d328ab"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "d16b7831da4eccce49e402defba6da2c598e60c533deee48eea793e94e7124c1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "9a282c56c45d3177c0cf651d18c3da1917a37e6ba7e9bb7ce72a7ffd6d376484"
+metafile = true
+
+[[files]]
+file = "mods/fuji.pw.toml"
+hash = "f0b5fe944cd04dadd3cba4a5e859f4fa0cc8f87433989b08ffb2ccb988ba5c9e"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "8bb5b5695810c5f5eb27a4e1890db7492ec4ad0c6efe95e713f694aa017e640d"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "507d24ff250c914f43b7bad6dbf2878122efc65cead0a429893fa5a6273c5886"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ebc0a6c9f39a73686aea16c4ea2a82fee370de3a6ed901a4348c05af40c3a5bd"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "e288d89f861eb6c4713859822ec2bc020b1a9e9953c0386003c1c03b47c5a977"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
+metafile = true
+
+[[files]]
+file = "mods/notica.pw.toml"
+hash = "0bd03ff884f757c4a4e86ca40cbb1cd254be8f79827697bca93d66b609d9074b"
+metafile = true
+
+[[files]]
+file = "mods/seedguard.pw.toml"
+hash = "488de4e605e34cecbc51f466a6b1abf02ccc8485f59beeecca2e6bbf805fad57"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
+metafile = true
+
+[[files]]
+file = "mods/sessility.pw.toml"
+hash = "b8585f7f759a669e18d2a182ff3dba2eea4238388f88e1fca33de923b4654ced"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "eb3fe435102ad885321ac09ba6ced708c240ead8a9deadf29b21537beba17151"
+metafile = true
+
+[[files]]
+file = "mods/slumber.pw.toml"
+hash = "c84aa73b8acffbc64bb0d9e4af05243ac6b53c798941e0bf3123aa610c445eee"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "9c4a3b23937ee6e5ba58f06a2cf52bd83dfad0522437647a081c37efc8f76beb"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "b9b80e6a56ce783b8a7fc5c4b17e4380425a2a7a66dc09c39e9ef76426b24827"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
+metafile = true
