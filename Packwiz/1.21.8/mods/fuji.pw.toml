@@ -1,0 +1,13 @@
+name = "Fuji (Essentials)"
+filename = "fuji-fabric-12.9.0-9376aeb2c7-mc1.21.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1TowMm2v/versions/wjeZUo45/fuji-fabric-12.9.0-9376aeb2c7-mc1.21.8.jar"
+hash-format = "sha512"
+hash = "0767175878a466e150c2706788f33a5e28e686a8d48723e8f85a5badcb6a3ea28299836a0114d64f7638c432befe188c5cf0d558298eda0019b89ee3244be04c"
+
+[update]
+[update.modrinth]
+mod-id = "1TowMm2v"
+version = "wjeZUo45"
