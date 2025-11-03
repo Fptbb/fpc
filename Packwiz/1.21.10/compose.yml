@@ -1,6 +1,6 @@
 services:
   mc:
-    image: itzg/minecraft-server:latest
+    image: docker.io/itzg/minecraft-server:latest
     tty: true
     stdin_open: true
     ports:
@@ -15,7 +15,7 @@ services:
       MAX_MEMORY: "4G"
       SERVER_NAME: "Mine"
       ONLINE_MODE: "FALSE"
-      MODRINTH_MODPACK: "fcp"
+      MODRINTH_MODPACK: "/modpacks/pack.mrpack"
     volumes:
-      # attach the relative directory 'data' to the container's /data path
       - ../../ServerData/1.21.10:/data:Z
+      - ./pack.mrpack:/modpacks/pack.mrpack:Z

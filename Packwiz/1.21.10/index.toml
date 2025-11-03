@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Justfile"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "docker-compose.yml"
-hash = "b5a61df1811db586647fdabcf7ef18d5ba002da373bb7b331fadb1e29a1129c7"
+hash = "802b5c7e883859101badca2f1c54aaa3987c266e0e81c91feb3e558b7038352c"
 
 [[files]]
 file = "mods/almanac-lib.pw.toml"
@@ -22,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "1962cda76b2ef0e81ff943c68488e21f01b8a8317c01ae2a2b544fbc6fafdf99"
 metafile = true
 
 [[files]]
@@ -120,6 +129,11 @@ hash = "d788235233cd7bb10444760f354161d730ce1c504976cfdf91bd26fcd05c9e26"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
 file = "mods/seedguard.pw.toml"
 hash = "d574929c48ee577c63e3dd7629b2f68a26f396d36af96306022edf793e4b7195"
 metafile = true
@@ -147,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "d039768c39de4e27eb317c590dc65e16b5c9afddd402089227617a03f58a9db4"
 metafile = true
 
 [[files]]
