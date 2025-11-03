@@ -1,0 +1,21 @@
+services:
+  mc:
+    image: itzg/minecraft-server:latest
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+      - "19132:19132/udp"
+    environment:
+      EULA: "TRUE"
+      TYPE: "MODRINTH"
+      VERSION: "1.21.10"
+      MAX_PLAYERS: "21"
+      MODE: "survival"
+      MAX_MEMORY: "4G"
+      SERVER_NAME: "Mine"
+      ONLINE_MODE: "FALSE"
+      MODRINTH_MODPACK: "fcp"
+    volumes:
+      # attach the relative directory 'data' to the container's /data path
+      - ../../ServerData/1.21.10:/data:Z
