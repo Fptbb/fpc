@@ -85,11 +85,6 @@ hash = "593e4347238a1f38c97a7b28c0b1b48b358a43ba5be2282dfa41b6cf66debb48"
 metafile = true
 
 [[files]]
-file = "mods/get-it-together-drops.pw.toml"
-hash = "8bb5b5695810c5f5eb27a4e1890db7492ec4ad0c6efe95e713f694aa017e640d"
-metafile = true
-
-[[files]]
 file = "mods/geyser.pw.toml"
 hash = "2b6bf4bb986325e04b07089ffcbbcc814fe503ddf45dd126b336a32b170eacd0"
 metafile = true
