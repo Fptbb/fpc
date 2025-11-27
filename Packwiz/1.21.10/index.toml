@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Justfile"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "docker-compose.yml"
-hash = "802b5c7e883859101badca2f1c54aaa3987c266e0e81c91feb3e558b7038352c"
-
-[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "49a33ac37445e3c08eb1a958b4f81f0c9ce356a8c08ace17e5df98e18558b4b1"
 metafile = true
@@ -30,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1962cda76b2ef0e81ff943c68488e21f01b8a8317c01ae2a2b544fbc6fafdf99"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
 
 [[files]]
@@ -65,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "336bea7fbe2bbbae3875ac59dbc0d11a7f1eb247a5f23e951c136bcd952a6086"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
@@ -85,22 +77,22 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9a8c273d0efcf679d04d77ab37521c05978caff642a6c2b867d2fa2cdc8b168e"
+hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
 metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "593e4347238a1f38c97a7b28c0b1b48b358a43ba5be2282dfa41b6cf66debb48"
+hash = "2f54900f945ec85e7647cb04f052daab7bb63ffbac9310b176e95d999a1be90e"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "2b6bf4bb986325e04b07089ffcbbcc814fe503ddf45dd126b336a32b170eacd0"
+hash = "244ad740e6ce8ef65164a2499db058fe681cffda00ad6b3dc3d00dd2ebe15450"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
@@ -175,10 +167,10 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "79a938585866f8f74e569d39fb968b5bb9300634b79f537149f7494eb427d940"
+hash = "4bdb15115b35d69e045da6000bdda50c235dd6cdd9b78a3f894b8312f76f970c"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "90df8d95fcd836373dd1b26dd8f3fbc6ca8ac55f797e09562796aa0aeb0576c0"
+hash = "1750b72e8ece77b5676ed18ffce81d0fd4df89e8bbde63ef8cc328df87bb9277"
 metafile = true
