@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "docker-compose.yml"
-hash = "fbc9c2a6a7b6f33a6c7dc20e47f6ceb0143853c6a9c19cb2f9d8f1d9a973190a"
+hash = "9752e14f8ce6d5ecf39c3275b74b51edbaff377700700bf3e0385cc60cf9d0ee"
 
 [[files]]
 file = "mods/almanac-lib.pw.toml"
