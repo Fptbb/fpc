@@ -1,0 +1,13 @@
+name = "Sessility"
+filename = "sessility-fabric-mod-0.7.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G9rHXWug/versions/U3Lr9wIn/sessility-fabric-mod-0.7.7.jar"
+hash-format = "sha512"
+hash = "583306025ef6ce935f17f955ab58bd516c542d5983f954ff2e22f4a59eb694d4851f95e40f3952aad3110c23aff861ad14b409a6f07d519ee26c31a81610f161"
+
+[update]
+[update.modrinth]
+mod-id = "G9rHXWug"
+version = "U3Lr9wIn"
